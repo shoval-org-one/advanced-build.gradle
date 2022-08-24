@@ -17,7 +17,7 @@ repositories {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:1.4.32"
-    implementation "com.android.tools.build:gradle:7.0"
+    implementation "com.android.tools.build:gradle:2.a"
     implementation "org.eclipse.jgit:org.eclipse.jgit:5.7.0.202003110725-r"
 
     testImplementation gradleTestKit()
